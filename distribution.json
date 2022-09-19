@@ -1,0 +1,33 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1021380406152540210",
+        "smallImageText": "Merrawin",
+        "smallImageKey": "seal-circle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "reanon",
+            "name": "Reanon | Survival",
+            "description": "Выживание с элементами RPG",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "version": "0.0.1",
+            "address": "178.63.2.245:7500",
+            "minecraftVersion": "1.19.2",
+            "discord": {
+                "shortId": "Merrawin Survival",
+                "largeImageText": "Merrawin Survival",
+                "largeImageKey": "server-prod"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                
+            ]
+        }
+    ]
+}
